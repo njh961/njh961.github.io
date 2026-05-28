@@ -1,4 +1,4 @@
-# Jaehyeon Nam - 남재현
+# Jaehyeon Nam
 
 Personal GitHub Pages site for Jaehyeon Nam.
 
@@ -7,8 +7,6 @@ Personal GitHub Pages site for Jaehyeon Nam.
 
 ## Research Interest
 
-- Human-robot collaboration & 3D object recognition
-- Smart manufacturing AI agents
-- Deep learning-based fault diagnosis
-- Sensor fusion & state estimation
-- Robotic hardware platform design
+- Sensor Fusion and Control
+- Smart Manufacturing & AI
+- Fault Diagnosis for Compressors, Loaders, Batteries, and Helicopter Components

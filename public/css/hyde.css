@@ -279,30 +279,50 @@ a.sidebar-nav-item:focus {
   background: rgba(255,255,255,.12);
 }
 
+.profile-photo-wrap {
+  width: 8.25rem;
+  height: 8.25rem;
+  margin: 0 auto 1.6rem;
+  border: 2px solid rgba(255,255,255,.82);
+  border-radius: 50%;
+  overflow: hidden;
+  background: rgba(255,255,255,.12);
+}
+
+.profile-photo {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: 50% 28%;
+}
+
 .sidebar-about h1 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: 2.25rem;
+  font-size: 2.65rem;
   line-height: 1.1;
 }
 
 .sidebar-summary {
   max-width: 15rem;
-  margin: 0 auto 1.5rem;
+  margin: .95rem auto 1.9rem;
   color: rgba(255,255,255,.78);
   font-size: .95rem;
+  line-height: 1.75;
 }
 
 .sidebar-nav {
-  padding-top: 1rem;
+  padding-top: 1.35rem;
   border-top: 1px solid rgba(255,255,255,.18);
 }
 
 .sidebar-nav-item {
-  padding: .2rem 0;
+  padding: .3rem 0;
 }
 
 .sidebar-footer {
-  margin-top: 1.5rem;
+  margin-top: 2rem;
   color: rgba(255,255,255,.55);
   font-size: .8rem;
 }
@@ -422,13 +442,13 @@ a.sidebar-nav-item:focus {
 }
 
 .profile-intro {
-  padding-bottom: 2rem;
+  padding-bottom: 2.5rem;
   border-bottom: 1px solid #e8e5dc;
 }
 
 .profile-intro h1 {
   max-width: 44rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1.25rem;
   color: #19201f;
   font-size: 2.35rem;
   line-height: 1.12;
@@ -437,15 +457,16 @@ a.sidebar-nav-item:focus {
 .profile-intro .lead {
   max-width: 44rem;
   color: #56605d;
+  line-height: 1.75;
 }
 
 .cv-section {
-  margin-top: 2.25rem;
+  margin-top: 3.15rem;
 }
 
 .cv-section h2 {
-  margin-bottom: .95rem;
-  padding-bottom: .35rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: .55rem;
   border-bottom: 1px solid #e8e5dc;
   color: #1f2f2d;
   font-size: 1.35rem;
@@ -453,14 +474,14 @@ a.sidebar-nav-item:focus {
 
 .cv-list {
   display: grid;
-  gap: .9rem;
+  gap: 1.1rem;
 }
 
 .cv-item {
   display: grid;
   grid-template-columns: 8.5rem minmax(0, 1fr);
-  gap: 1rem;
-  padding: .95rem 0;
+  gap: 1.35rem;
+  padding: 1.25rem 0;
   border-bottom: 1px solid #eee9df;
 }
 
@@ -472,6 +493,7 @@ a.sidebar-nav-item:focus {
 
 .cv-body {
   color: #39413f;
+  line-height: 1.7;
 }
 
 .cv-body strong {
@@ -492,7 +514,8 @@ a.sidebar-nav-item:focus {
 
 .compact-list li,
 .award-list li {
-  margin-bottom: .45rem;
+  margin-bottom: .7rem;
+  line-height: 1.65;
 }
 
 .award-list span {

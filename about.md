@@ -3,23 +3,19 @@ layout: page
 title: About
 ---
 
-I am **Jaehyeon Nam (남재현)**, a double-major undergraduate student at Keimyung University studying game software and mechanical engineering.
+I am **Jaehyeon Nam**, an undergraduate student in Mechanical Engineering at Keimyung University.
 
-My interests are centered on intelligent engineering systems: human-robot collaboration, smart manufacturing AI agents, deep learning-based diagnosis, and robotic hardware platforms.
+My interests are centered on intelligent mechanical systems, including sensor fusion and control, smart manufacturing AI, and fault diagnosis for compressors, loaders, batteries, and helicopter components.
 
 ## Education
 
-- **Keimyung University**, Department of Game Software, School of Computer Engineering, B.S. candidate, double major (2020.03 - 2027.08)
-- **Keimyung University**, Department of Mechanical Engineering, School of Smart Mobility Engineering, B.S. candidate (2020.03 - 2027.08)
-- **Maecheon High School**, graduated (2017.03 - 2020.02)
+- **Keimyung University**, Department of Mechanical Engineering, School of Smart Mobility Engineering, B.S. Candidate (Mar. 2020 - Present)
 
-## Research Interest
+## Research Interests
 
-- Human-robot collaboration & 3D object recognition
-- Smart manufacturing AI agents
-- Deep learning-based fault diagnosis
-- Sensor fusion & state estimation
-- Robotic hardware platform design
+- Sensor Fusion and Control
+- Smart Manufacturing & AI
+- Fault Diagnosis for Compressors, Loaders, Batteries, and Helicopter Components
 
 ## Contact
 

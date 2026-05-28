@@ -1,7 +1,7 @@
 # Site settings
-title: Jaehyeon Nam
+title: 남재현
 tagline: Robotics · Smart Manufacturing · AI
-description: Research portfolio of Jaehyeon Nam, focused on human-robot collaboration, smart manufacturing AI, and deep learning-based diagnosis.
+description: Research portfolio of Jaehyeon Nam, focused on sensor fusion and control, smart manufacturing AI, and fault diagnosis.
 url: https://skahyeon.github.io
 baseurl: ""
 

@@ -1,6 +1,8 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
-    <div class="profile-mark" aria-hidden="true">JN</div>
+    <div class="profile-photo-wrap">
+      <img class="profile-photo" src="{{ '/public/img/profile.png' | relative_url }}" alt="Jaehyeon Nam portrait">
+    </div>
 
     <div class="sidebar-about">
       <h1>
@@ -8,15 +10,15 @@
           {{ site.title }}
         </a>
       </h1>
-      <p class="lead">{{ site.author.korean_name }}</p>
-      <p class="sidebar-summary">Human-robot collaboration, smart manufacturing AI, and deep learning-based diagnosis.</p>
+      <p class="lead">{{ site.author.name }}</p>
+      <p class="sidebar-summary">센서 융합 및 제어, 스마트 제조 AI, 딥러닝 기반 진단.</p>
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
-      <a class="sidebar-nav-item{% if page.url == '/about/' %} active{% endif %}" href="{{ '/about/' | relative_url }}">About</a>
-      <a class="sidebar-nav-item" href="https://github.com/{{ site.author.github }}">GitHub</a>
-      <a class="sidebar-nav-item" href="mailto:{{ site.author.email }}">Email</a>
+      <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ '/' | relative_url }}">홈</a>
+      <a class="sidebar-nav-item{% if page.url == '/about/' %} active{% endif %}" href="{{ '/about/' | relative_url }}">소개</a>
+      <a class="sidebar-nav-item" href="https://github.com/{{ site.author.github }}">깃허브</a>
+      <a class="sidebar-nav-item" href="mailto:{{ site.author.email }}">이메일</a>
     </nav>
 
     <p class="sidebar-footer">{{ site.author.email }}<br>&copy; {{ site.time | date: '%Y' }}</p>
