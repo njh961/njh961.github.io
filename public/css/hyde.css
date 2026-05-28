@@ -420,3 +420,100 @@ a.sidebar-nav-item:focus {
   border-left: .25rem solid #577d3e;
   background: #fff;
 }
+
+.profile-intro {
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e8e5dc;
+}
+
+.profile-intro h1 {
+  max-width: 44rem;
+  margin-bottom: 1rem;
+  color: #19201f;
+  font-size: 2.35rem;
+  line-height: 1.12;
+}
+
+.profile-intro .lead {
+  max-width: 44rem;
+  color: #56605d;
+}
+
+.cv-section {
+  margin-top: 2.25rem;
+}
+
+.cv-section h2 {
+  margin-bottom: .95rem;
+  padding-bottom: .35rem;
+  border-bottom: 1px solid #e8e5dc;
+  color: #1f2f2d;
+  font-size: 1.35rem;
+}
+
+.cv-list {
+  display: grid;
+  gap: .9rem;
+}
+
+.cv-item {
+  display: grid;
+  grid-template-columns: 8.5rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: .95rem 0;
+  border-bottom: 1px solid #eee9df;
+}
+
+.cv-date {
+  color: #6b766f;
+  font-size: .88rem;
+  font-weight: 700;
+}
+
+.cv-body {
+  color: #39413f;
+}
+
+.cv-body strong {
+  color: #1f2f2d;
+}
+
+.role,
+.pub-meta {
+  color: #577d3e;
+  font-size: .9rem;
+  font-weight: 700;
+}
+
+.compact-list,
+.award-list {
+  padding-left: 1.15rem;
+}
+
+.compact-list li,
+.award-list li {
+  margin-bottom: .45rem;
+}
+
+.award-list span {
+  display: inline-block;
+  min-width: 5.75rem;
+  color: #6b766f;
+  font-weight: 700;
+}
+
+@media (max-width: 38em) {
+  .profile-intro h1 {
+    font-size: 1.85rem;
+  }
+
+  .cv-item {
+    grid-template-columns: 1fr;
+    gap: .25rem;
+  }
+
+  .award-list span {
+    display: block;
+    min-width: 0;
+  }
+}
