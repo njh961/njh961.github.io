@@ -6,7 +6,7 @@ title: About
 ## Education
 
 - B.S. Mechanical Engineering (Major), Mar. 2020 - Present
-- B.S. Computer Engineering (Double Major), Mar. 2020 - Present
+- B.S. Computer Engineering (Minor), Mar. 2020 - Present
 
 ## Research Interests
 
