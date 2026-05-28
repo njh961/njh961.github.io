@@ -5,7 +5,7 @@ title: About
 
 ## Education
 
-- B.S. Candidate in Mechanical Engineering (Mar. 2020 - Present)
+- B.S. Mechanical Engineering (Mar. 2020 - Present)
 
 ## Research Interests
 
@@ -15,5 +15,5 @@ title: About
 
 ## Contact
 
-- Email: [{{ site.author.email }}](mailto:{{ site.author.email }})
-- GitHub: [{{ site.author.github }}](https://github.com/{{ site.author.github }})
+- Email: [njh961@naver.com](mailto:njh961@naver.com)
+- Email: [njh961@gmail.com](mailto:njh961@gmail.com)
