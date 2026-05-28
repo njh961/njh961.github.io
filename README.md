@@ -1,17 +1,13 @@
 # Jaehyeon Nam - 남재현
 
-Email: njh961@gmail.com             
-Homepage: https://skahyeon.github.io/             
+Personal GitHub Pages site for Jaehyeon Nam.
+
+- Homepage: https://skahyeon.github.io/
+- Email: njh961@gmail.com
 
 ## Research Interest
 
 - Sensor fusion & state estimation
-- Smart factory & control    
-- Faciltty Porous Pressure System
-- Smart Manufacturing AI Agent
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+- Smart factory & control
+- Facility pressure-system monitoring
+- Smart manufacturing AI agents

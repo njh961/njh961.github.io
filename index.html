@@ -3,33 +3,62 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    {{ post.content }}
+<section class="portfolio-hero">
+  <p class="eyebrow">Jaehyeon Nam / 남재현</p>
+  <h1>Building intelligent systems for sensing, control, and smart manufacturing.</h1>
+  <p class="lead">
+    I am interested in sensor fusion, state estimation, smart factory control, and AI agents for manufacturing environments.
+  </p>
+  <div class="hero-actions">
+    <a class="button" href="mailto:{{ site.author.email }}">Contact</a>
+    <a class="button button-secondary" href="https://github.com/{{ site.author.github }}">GitHub</a>
   </div>
-  {% endfor %}
-</div>
+</section>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<section class="portfolio-section">
+  <h2>Research Focus</h2>
+  <div class="focus-grid">
+    <article class="focus-card">
+      <h3>Sensor Fusion & State Estimation</h3>
+      <p>Robust estimation pipelines that combine multiple sensor sources for reliable perception and control.</p>
+    </article>
+    <article class="focus-card">
+      <h3>Smart Factory & Control</h3>
+      <p>Control-oriented systems for factory automation, monitoring, and process-aware decision making.</p>
+    </article>
+    <article class="focus-card">
+      <h3>Facility Pressure Systems</h3>
+      <p>Facility-level pressure-system analysis and monitoring for safer, more traceable industrial operation.</p>
+    </article>
+    <article class="focus-card">
+      <h3>Manufacturing AI Agents</h3>
+      <p>AI agents that help interpret manufacturing context, support workflows, and connect data to action.</p>
+    </article>
+  </div>
+</section>
+
+<section class="portfolio-section">
+  <h2>Selected Directions</h2>
+  <ul class="project-list">
+    <li>
+      <strong>Quality-aware sensing:</strong>
+      sensor data fusion and state estimation for environments where measurements can be uncertain or incomplete.
+    </li>
+    <li>
+      <strong>Factory intelligence:</strong>
+      smart manufacturing systems that combine control logic, process data, and AI-driven assistance.
+    </li>
+    <li>
+      <strong>Human-centered tooling:</strong>
+      practical interfaces and agents that make engineering workflows easier to inspect, repeat, and improve.
+    </li>
+  </ul>
+</section>
+
+<section class="portfolio-section contact-panel">
+  <h2>Contact</h2>
+  <p>
+    For research, collaboration, or project discussions, reach me at
+    <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>.
+  </p>
+</section>

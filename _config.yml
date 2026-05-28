@@ -1,26 +1,20 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+# Site settings
+title: Jaehyeon Nam
+tagline: Sensor Fusion · Smart Factory · AI Agents
+description: Research portfolio of Jaehyeon Nam, focused on sensor fusion, smart factory control, and smart manufacturing AI agents.
+url: https://skahyeon.github.io
+baseurl: ""
 
-# Permalinks
-permalink:        pretty
-
-
-# Setup
-title:            Jaehyeon Nam
-tagline:          ':)'
-description:      ''
-url:              http://skahyeon.github.io
-baseurl:          /
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
-
-# Custom vars
-version:          2.1.0
+  name: Jaehyeon Nam
+  korean_name: 남재현
+  email: njh961@gmail.com
+  github: skahyeon
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo: https://github.com/skahyeon/skahyeon.github.io
