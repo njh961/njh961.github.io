@@ -449,7 +449,16 @@ a.sidebar-nav-item:focus {
 .contact-panel p {
   margin-bottom: 0;
   color: #303949;
+}
+
+.contact-panel .field-target {
   font-weight: 700;
+}
+
+.contact-panel .contact-emails {
+  margin-top: .4rem;
+  font-size: .9rem;
+  line-height: 1.55;
 }
 
 .visual-hero {

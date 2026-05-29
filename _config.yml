@@ -2,7 +2,8 @@
 title: 남재현 CV
 tagline: ""
 description: 남재현 CV
-url: https://skahyeon.github.io
+browser_title: "hi <3"
+url: https://njh961.github.io
 baseurl: ""
 
 # Build settings
@@ -14,7 +15,7 @@ author:
   name: Jaehyeon Nam
   korean_name: 남재현
   email: njh961@gmail.com
-  github: skahyeon
+  github: njh961
 
 github:
-  repo: https://github.com/skahyeon/skahyeon.github.io
+  repo: https://github.com/njh961/njh961.github.io

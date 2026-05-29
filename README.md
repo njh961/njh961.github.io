@@ -2,7 +2,7 @@
 
 Personal GitHub Pages site for Jaehyeon Nam.
 
-- Homepage: https://skahyeon.github.io/
+- Homepage: https://njh961.github.io/
 - Email: njh961@gmail.com
 
 ## Research Interest
