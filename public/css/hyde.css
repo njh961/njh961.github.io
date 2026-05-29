@@ -437,9 +437,19 @@ a.sidebar-nav-item:focus {
 }
 
 .contact-panel {
-  padding: 1.25rem;
+  padding: .85rem 1rem;
   border-left: .25rem solid #4f6fd7;
   background: #fff;
+}
+
+.contact-panel h2 {
+  margin-bottom: .65rem;
+}
+
+.contact-panel p {
+  margin-bottom: 0;
+  color: #303949;
+  font-weight: 700;
 }
 
 .visual-hero {
