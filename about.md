@@ -5,7 +5,7 @@ title: About
 
 ## Education
 
-- B.S. Mechanical Engineering (Major), Minor in Computer Engineering, Mar. 2020 - Present
+- B.S. Mechanical Engineering (Major), Minor in Game Software, Mar. 2020 - Present
 
 ## Research Interests
 

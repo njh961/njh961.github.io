@@ -506,6 +506,14 @@ a.sidebar-nav-item:focus {
   font-weight: 700;
 }
 
+.cv-subdate {
+  display: inline-block;
+  margin-top: .35rem;
+  color: #8894a7;
+  font-size: .8rem;
+  font-weight: 600;
+}
+
 .cv-body {
   color: #303949;
   line-height: 1.7;
