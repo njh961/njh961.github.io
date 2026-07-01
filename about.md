@@ -17,5 +17,6 @@ title: About
 
 ## Contact
 
-- Email: [njh961@naver.com](mailto:njh961@naver.com)
-- Email: [njh961@gmail.com](mailto:njh961@gmail.com)
+- Personal E-mail: [njh961@naver.com](mailto:njh961@naver.com)
+- Personal E-mail: [njh961@gmail.com](mailto:njh961@gmail.com)
+- Official E-mail: [5646415@stu.kmu.ac.kr](mailto:5646415@stu.kmu.ac.kr)
