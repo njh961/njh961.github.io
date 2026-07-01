@@ -9,11 +9,11 @@ title: About
 
 ## Research Interests
 
-- AI & 머신러닝
-  0. 자율주행 시스템 (4족보행 로봇, E코너 자동차)
-  1. 비전 AI (행동 분석, 부품 인식)
-  2. 에너지 관리 시스템 (리튬 이온 배터리)
-  3. 기계 진동 및 소음 제어 (로더, 헬리콥터 기어박스)
+- AI & Machine Learning
+  0. Autonomous Driving Systems (Quadruped Robots, E-Corner Vehicles)
+  1. Vision AI (Behavior Analysis, Component Recognition)
+  2. Energy Management Systems (Lithium-Ion Batteries)
+  3. Mechanical Vibration and Noise Control (Loaders, Helicopter Gearboxes)
 
 ## Contact
 

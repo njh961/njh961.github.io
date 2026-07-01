@@ -543,7 +543,16 @@ a.sidebar-nav-item:focus {
 }
 
 .role,
+.paper-meta,
 .pub-meta {
+  color: #4f6fd7;
+  font-size: .9rem;
+  font-weight: 700;
+}
+
+.paper-link {
+  display: inline-block;
+  margin-left: .35rem;
   color: #4f6fd7;
   font-size: .9rem;
   font-weight: 700;
