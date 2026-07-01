@@ -5,7 +5,8 @@ title: About
 
 ## Education
 
-- B.S. Mechanical Engineering (Major), Minor in Game Software, Mar. 2020 - Present
+- B.S. Mechanical Engineering (Major) & Minor in Game Software, Mar. 2020 - Present
+- 2026 Self-Directed Talent Scholar (KSRS)
 
 ## Research Interests
 
