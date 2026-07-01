@@ -455,6 +455,11 @@ a.sidebar-nav-item:focus {
   font-weight: 700;
 }
 
+.contact-panel .role-fit {
+  margin-top: .35rem;
+  line-height: 1.55;
+}
+
 .contact-panel .contact-emails {
   margin-top: .4rem;
   font-size: .9rem;
@@ -504,6 +509,13 @@ a.sidebar-nav-item:focus {
   border-bottom: 1px solid #dfe5f1;
   color: #111827;
   font-size: 1.35rem;
+}
+
+.cv-subheading {
+  margin: 1.6rem 0 .55rem;
+  color: #4f6fd7;
+  font-size: 1rem;
+  font-weight: 700;
 }
 
 .cv-list {
