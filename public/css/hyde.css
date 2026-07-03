@@ -500,21 +500,38 @@ a.sidebar-nav-item:focus {
 }
 
 .cv-section {
-  margin-top: 3.15rem;
+  margin-top: 2rem;
+  padding: 1.15rem 1.2rem;
+  border: 1px solid #dfe5f1;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 .85rem 2rem rgba(17,24,39,.045);
+}
+
+.visual-hero + .cv-section {
+  margin-top: 0;
 }
 
 .cv-section h2 {
   margin-bottom: 1.25rem;
   padding-bottom: .55rem;
-  border-bottom: 1px solid #dfe5f1;
-  color: #111827;
+  border-bottom: 2px solid #4f6fd7;
+  color: #4f6fd7;
   font-size: 1.35rem;
 }
 
+.cv-section.contact-panel {
+  border-left: .25rem solid #4f6fd7;
+}
+
 .cv-subheading {
-  margin: 1.6rem 0 .55rem;
+  display: inline-flex;
+  margin: 1.25rem 0 .45rem;
+  padding: .25rem .55rem;
+  border-radius: 999px;
   color: #4f6fd7;
-  font-size: 1rem;
+  background: #f1f5ff;
+  font-size: .9rem;
   font-weight: 700;
 }
 
@@ -527,14 +544,25 @@ a.sidebar-nav-item:focus {
   display: grid;
   grid-template-columns: 8.5rem minmax(0, 1fr);
   gap: 1.35rem;
-  padding: 1.25rem 0;
+  padding: 1.05rem 0;
   border-bottom: 1px solid #e4e9f2;
 }
 
+.cv-item:last-child {
+  border-bottom: 0;
+  padding-bottom: .15rem;
+}
+
 .cv-date {
-  color: #68758a;
+  align-self: start;
+  display: inline-block;
+  padding: .45rem .6rem;
+  border-radius: 6px;
+  color: #4f6fd7;
+  background: #f1f5ff;
   font-size: .88rem;
   font-weight: 700;
+  line-height: 1.35;
 }
 
 .cv-subdate {
@@ -552,6 +580,7 @@ a.sidebar-nav-item:focus {
 
 .cv-body strong {
   color: #111827;
+  font-size: 1.02rem;
 }
 
 .role,
@@ -572,13 +601,28 @@ a.sidebar-nav-item:focus {
 
 .compact-list,
 .award-list {
-  padding-left: 1.15rem;
+  padding-left: 0;
+  list-style: none;
 }
 
 .compact-list li,
 .award-list li {
+  position: relative;
   margin-bottom: .7rem;
+  padding-left: 1.05rem;
   line-height: 1.65;
+}
+
+.compact-list li::before,
+.award-list li::before {
+  position: absolute;
+  top: .68rem;
+  left: 0;
+  width: .35rem;
+  height: .35rem;
+  border-radius: 50%;
+  background: #4f6fd7;
+  content: "";
 }
 
 .award-list span {
@@ -588,17 +632,8 @@ a.sidebar-nav-item:focus {
   font-weight: 700;
 }
 
-.skills-panel {
-  padding: 1rem;
-  border: 1px solid #dfe5f1;
-  border-radius: 8px;
-  background: #fff;
-}
-
 .skills-panel h2 {
   margin-bottom: 1rem;
-  border-bottom: 2px solid #4f6fd7;
-  color: #4f6fd7;
 }
 
 .skill-grid {
