@@ -11,7 +11,7 @@ title: About
 ## Skill Set
 
 - C, Python, MATLAB: Advanced
-- C++, C#: Intermediate
+- C++, C#, LabVIEW: Intermediate
 
 ## Certificates
 
