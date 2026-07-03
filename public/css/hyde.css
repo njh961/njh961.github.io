@@ -342,21 +342,21 @@ a.sidebar-nav-item:focus {
   fill: currentColor;
 }
 
-.social-google {
-  color: #fff !important;
-  background: #4f6fd7;
-  font-size: 1.25rem;
-  font-weight: 800;
-}
-
 .social-scholar {
   color: #fff !important;
   background: #4285f4;
 }
 
-.social-mail {
+.social-saramin {
   color: #fff !important;
-  background: #0f766e;
+  background: #00a884;
+  font-size: 1.15rem;
+  font-weight: 800;
+}
+
+.social-linkedin {
+  color: #fff !important;
+  background: #0a66c2;
 }
 
 .sidebar-summary {
