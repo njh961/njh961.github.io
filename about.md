@@ -8,6 +8,16 @@ title: About
 - B.S. Mechanical Engineering (Major) & Minor in Game Software, Mar. 2020 - Present
 - 2026 Keimyung Self-Reliant Learner Scholarship (KSRS)
 
+## Skill Set
+
+- C, Python, MATLAB: Advanced
+- C++, C#: Intermediate
+
+## Certificates
+
+- 6 Sigma (GB / BB), Nov. 2025
+- Class 1 Ordinary Driver's License, Jan. 2020
+
 ## Experience
 
 - Samsung Electronics Service, Repair and Safety Assistant, Jul. 2026 - Aug. 2026
