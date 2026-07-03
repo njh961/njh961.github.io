@@ -10,8 +10,9 @@ title: About
 
 ## Experience
 
-- Samsung Electronics Service, Repair and Safety Assistant, Completed 3-Month Term
-- Republic of Korea Army, Repair Parts Clerk, Completed 18-Month Term
+- Samsung Electronics Service, Repair and Safety Assistant, Jul. 2026 - Aug. 2026
+- Samsung Electronics Service, Repair and Safety Assistant, Jul. 2025 - Aug. 2025
+- Republic of Korea Army, Repair Parts Clerk, Oct. 2021 - Apr. 2023
 
 ## Research Interests
 
