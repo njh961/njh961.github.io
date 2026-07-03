@@ -6,7 +6,7 @@ title: About
 ## Education
 
 - B.S. Mechanical Engineering (Major) & Minor in Game Software, Mar. 2020 - Present
-- 2026 Self-Directed Talent Scholar (KSRS)
+- 2026 Keimyung Self-Reliant Learner Scholarship (KSRS)
 
 ## Experience
 
