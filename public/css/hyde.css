@@ -588,6 +588,44 @@ a.sidebar-nav-item:focus {
   font-weight: 700;
 }
 
+.skills-panel {
+  padding: 1rem;
+  border: 1px solid #dfe5f1;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.skills-panel h2 {
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #4f6fd7;
+  color: #4f6fd7;
+}
+
+.skill-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: .75rem 2.25rem;
+}
+
+.skill-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: baseline;
+  gap: .75rem;
+}
+
+.skill-name {
+  color: #4f6fd7;
+  font-weight: 700;
+}
+
+.skill-level {
+  color: #111827;
+  font-size: .9rem;
+  font-weight: 700;
+  text-align: right;
+}
+
 @media (max-width: 38em) {
   .profile-intro h1 {
     font-size: 1.85rem;
@@ -596,6 +634,10 @@ a.sidebar-nav-item:focus {
   .cv-item {
     grid-template-columns: 1fr;
     gap: .25rem;
+  }
+
+  .skill-grid {
+    grid-template-columns: 1fr;
   }
 
   .award-list span {
