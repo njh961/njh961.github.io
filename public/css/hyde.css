@@ -575,14 +575,8 @@ a.sidebar-nav-item:focus {
   padding-left: 1.15rem;
 }
 
-.research-list {
-  margin: .45rem 0 0;
-  padding-left: 1.35rem;
-}
-
 .compact-list li,
-.award-list li,
-.research-list li {
+.award-list li {
   margin-bottom: .7rem;
   line-height: 1.65;
 }

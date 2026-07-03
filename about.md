@@ -10,11 +10,7 @@ title: About
 
 ## Research Interests
 
-- AI & Machine Learning
-  0. Autonomous Driving Systems (Quadruped Robots, E-Corner Vehicles)
-  1. Vision AI (Behavior Analysis, Component Recognition)
-  2. Energy Management Systems (Lithium-Ion Batteries)
-  3. Mechanical Vibration and Noise Control (Loaders, Helicopter Gearboxes)
+- Hardware Condition and Fault Diagnosis Using Deep Learning Algorithms
 
 ## Contact
 
