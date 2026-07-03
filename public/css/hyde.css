@@ -301,7 +301,7 @@ a.sidebar-nav-item:focus {
 
 .sidebar-about h1 {
   font-family: "Segoe Print", "Comic Sans MS", "Trebuchet MS", "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: 2.45rem;
+  font-size: 1.25rem;
   font-weight: 800;
   line-height: 1.1;
 }
@@ -365,6 +365,14 @@ a.sidebar-nav-item:focus {
 .social-linkedin {
   color: #fff !important;
   background: #0a66c2;
+}
+
+.sidebar-email {
+  margin: 1.4rem 0 0;
+  color: rgba(255,255,255,.8);
+  font-size: .78rem;
+  font-weight: 700;
+  line-height: 1.4;
 }
 
 .sidebar-summary {
@@ -498,36 +506,6 @@ a.sidebar-nav-item:focus {
   margin-bottom: .85rem;
 }
 
-.contact-panel {
-  padding: .85rem 1rem;
-  border-left: .25rem solid #4f6fd7;
-  background: #fff;
-}
-
-.contact-panel h2 {
-  margin-bottom: .65rem;
-}
-
-.contact-panel p {
-  margin-bottom: 0;
-  color: #303949;
-}
-
-.contact-panel .field-target {
-  font-weight: 700;
-}
-
-.contact-panel .role-fit {
-  margin-top: .35rem;
-  line-height: 1.55;
-}
-
-.contact-panel .contact-emails {
-  margin-top: .4rem;
-  font-size: .9rem;
-  line-height: 1.55;
-}
-
 .visual-hero {
   margin-bottom: 3.25rem;
 }
@@ -580,10 +558,6 @@ a.sidebar-nav-item:focus {
   border-bottom: 2px solid #4f6fd7;
   color: #4f6fd7;
   font-size: 1.35rem;
-}
-
-.cv-section.contact-panel {
-  border-left: .25rem solid #4f6fd7;
 }
 
 .cv-subheading {
