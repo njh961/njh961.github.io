@@ -518,12 +518,6 @@ a.sidebar-nav-item:focus {
   font-weight: 700;
 }
 
-.project-subheading {
-  color: #111827;
-  font-size: 1.35rem;
-  line-height: 1.2;
-}
-
 .cv-list {
   display: grid;
   gap: 1.1rem;
