@@ -580,6 +580,11 @@ a.sidebar-nav-item:focus {
   font-weight: 700;
 }
 
+.publication-divider {
+  margin: 1.45rem 0 .85rem;
+  border-top: 1px solid #e4e9f2;
+}
+
 .cv-list {
   display: grid;
   gap: 1.1rem;
@@ -596,6 +601,10 @@ a.sidebar-nav-item:focus {
 .cv-item:last-child {
   border-bottom: 0;
   padding-bottom: .15rem;
+}
+
+.publication-list .cv-item {
+  border-bottom: 0;
 }
 
 .cv-date {
