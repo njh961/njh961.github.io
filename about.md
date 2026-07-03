@@ -8,6 +8,10 @@ title: About
 - B.S. Mechanical Engineering (Major) & Minor in Game Software, Mar. 2020 - Present
 - 2026 Keimyung Self-Reliant Learner Scholarship (KSRS)
 
+## Research Interests
+
+- Hardware Condition and Fault Diagnosis Using Deep Learning Algorithms
+
 ## Skill Set
 
 - C, Python, MATLAB: Advanced
@@ -23,10 +27,6 @@ title: About
 - Samsung Electronics Service, Repair and Safety Assistant, Jul. 2026 - Aug. 2026
 - Samsung Electronics Service, Repair and Safety Assistant, Jul. 2025 - Aug. 2025
 - Republic of Korea Army, Repair Parts Clerk, Oct. 2021 - Apr. 2023
-
-## Research Interests
-
-- Hardware Condition and Fault Diagnosis Using Deep Learning Algorithms
 
 ## Contact
 
