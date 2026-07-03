@@ -8,6 +8,11 @@ title: About
 - B.S. Mechanical Engineering (Major) & Minor in Game Software, Mar. 2020 - Present
 - 2026 Self-Directed Talent Scholar (KSRS)
 
+## Experience
+
+- Former CS Assistant, Samsung Electronics Service, Completed 3-Month Term
+- Republic of Korea Army Sergeant, Repair Parts Clerk, Completed 18-Month Term
+
 ## Research Interests
 
 - Hardware Condition and Fault Diagnosis Using Deep Learning Algorithms
