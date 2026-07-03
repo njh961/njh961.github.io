@@ -349,6 +349,11 @@ a.sidebar-nav-item:focus {
   font-weight: 800;
 }
 
+.social-scholar {
+  color: #fff !important;
+  background: #4285f4;
+}
+
 .social-mail {
   color: #fff !important;
   background: #0f766e;
