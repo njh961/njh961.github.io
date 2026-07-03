@@ -10,8 +10,8 @@ title: About
 
 ## Experience
 
-- Former CS Assistant, Samsung Electronics Service, Completed 3-Month Term
-- Republic of Korea Army Sergeant, Repair Parts Clerk, Completed 18-Month Term
+- Samsung Electronics Service, Safety Repair Assistant, Completed 3-Month Term
+- Republic of Korea Army, Repair Parts Clerk, Completed 18-Month Term
 
 ## Research Interests
 
