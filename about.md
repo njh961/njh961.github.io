@@ -10,8 +10,8 @@ title: About
 
 ## Research Interests
 
-- Hardware Condition and Fault Diagnosis Using Deep Learning Algorithms
-- Low-Cost System Monitoring and Maintenance Optimization for Industrial Equipment
+- Signal- and Data-Based Diagnosis of Equipment and Hardware Conditions
+- System Monitoring and Maintenance Optimization for Industrial Equipment
 
 ## Skill Set
 
