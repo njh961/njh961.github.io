@@ -634,6 +634,10 @@ a.sidebar-nav-item:focus {
   line-height: 1.7;
 }
 
+.cv-body a {
+  overflow-wrap: anywhere;
+}
+
 .cv-body strong {
   color: #111827;
   font-size: 1.02rem;
